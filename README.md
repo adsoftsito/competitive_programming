@@ -10,3 +10,5 @@ Welcome to Competitive Programming Club
 # Session 2
 [Slides 2](https://docs.google.com/presentation/d/1hbJRfII9Z_9ueiPMnIWz7j0DJ4JY1xk7/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
+# Session 3
+[Slides 3](https://docs.google.com/presentation/d/1Rs7ufmnrbMhTvx15BTetqWUn3JqAcBze/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
